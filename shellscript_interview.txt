@@ -1,0 +1,17 @@
+What is the command to get total num of runtime arguments passed to a shell script?
+
+echo $#
+
+Command to print the runtime arguments passed to a shell script?
+
+echo $* , echo $@
+
+Command to print the name of the shell script?
+
+echo $$
+
+Command to know the status of previous command?
+
+echo $?
+
+
